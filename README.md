@@ -38,3 +38,7 @@ waveTheoryGUI
 ## 参考文献
 
 Zhao, Wang & Liu (2024)
+
+## 示例
+
+![Wave Theory Chart](result_chart.svg)

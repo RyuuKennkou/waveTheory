@@ -10,6 +10,7 @@
 *.svg
 *.csv
 *.pdf
+!result_chart.svg
 
 # OS
 .DS_Store
