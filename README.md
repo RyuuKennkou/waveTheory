@@ -15,7 +15,7 @@
 - 线性波 (Airy)
 - Stokes 2-5 阶
 - 椭圆余弦波 (Cnoidal)
-- 破碎判据
+- 给出破碎判据
 
 ## 使用方法
 
@@ -38,3 +38,7 @@ waveTheoryGUI
 ## 参考文献
 
 Zhao, Wang & Liu (2024)
+
+## 示例
+
+![Wave Theory Chart](result_chart.svg)
